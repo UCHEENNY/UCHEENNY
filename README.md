@@ -1,7 +1,6 @@
+![image](https://github.com/user-attachments/assets/1c3765b8-452a-4611-b13e-fabb842acd29)
 # ABIODUN-ENIOLA-UCHE
-ABOUT ME
-# Hi, I'm Abiodun Eniola Uche! 👋  
-
+# Hi there, I&#39;m Enny! 👋  
 - ### 💼 About Me
 - 🛡️ Cybersecurity Professional with an entrepreneurial mindset  
 - 🔍 Exploring Cloud Security, Threat Intelligence, and Red Teaming  
@@ -25,6 +24,20 @@ ABOUT ME
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UCHEENNY&show_icons=true&theme=radical)
 
-### ✨ Fun Fact
-I'm on a mission to turn business instincts into cybersecurity strategy—powered by curiosity, open-source tools, and plenty of terminal commands.
+### ✨ Fun Fact – My Cyber Side
+
+I’m on a mission to turn business instincts into cybersecurity superpowers.  
+With curiosity as my compass and the terminal as my toolkit, I explore the digital world—from ethical hacking to GRC, and everything in between.
+
+You'll often find me:
+- Juggling open-source tools  
+- Running penetration tests  
+- Analyzing logs like a SOC analyst on caffeine ☕  
+- Mapping out GRC strategies that actually make sense ✅
+
+Whether it’s scanning with `theHarvester`, digging into WHOIS records, or writing up findings in a clean report, I love breaking things *just* enough to understand how to secure them better.
+
+**Always learning. Always collaborating. Always defending.**  
+Let’s build safer systems—one script, one policy, and one alert at a time. 🛡️💻🔍
+
 
