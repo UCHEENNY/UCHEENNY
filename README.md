@@ -1,19 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="./02c9a1f1-3f28-4a56-9f23-43a17764588a.png" alt="Cybersecurity Banner" style="width:100%;"/>
-</p>
-
-# ABIODUN-ENIOLA-UCHE
-
-## Hi there, I'm Enny! 👋
-
-### 📦 About Me
-
-- 🔐 Cybersecurity Professional with an entrepreneurial mindset  
-- 🔍 Exploring Cloud Security, Threat Intelligence, and Red Teaming  
-- 💡 I bring a unique blend of business strategy and technical acumen, developed from years as an entrepreneur and applied in real-world cyber defense  
-- 🧠 Skilled in identifying vulnerabilities, analyzing risks, and deploying proactive security measures in dynamic environments  
-![image](https://github.com/user-attachments/assets/1c3765b8-452a-4611-b13e-fabb842acd29)
 # ABIODUN-ENIOLA-UCHE
 # Hi there, I&#39;m Enny! 👋  
 - ### 💼 About Me
