@@ -9,7 +9,7 @@
 
 ### 🔗 My Work
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/abiodun-uche)  
-- 📄 [Resume](./Abiodun_Uche_Resume.pdf) *(upload your resume file with this name in the repo)*
+- 📄 [Resume] https://bit.ly/4ei5W2b)*
 
 ### ⚙️ Skills
 - **Technical Expertise**: Cybersecurity, Threat Analysis, Risk Management, Vulnerability Assessment, Incident Response, Data Encryption, Firewall Configuration, Network Security, Cyber Threat Intelligence, Network Monitoring, Access Control System Setup, IT Security Governance, Cross-Functional Collaboration, Problem-Solving  
